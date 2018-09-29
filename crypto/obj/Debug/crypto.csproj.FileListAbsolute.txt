@@ -1,0 +1,30 @@
+C:\Users\PC\Desktop\csharp tutos\crypto\crypto\bin\Debug\crypto.exe.config
+C:\Users\PC\Desktop\csharp tutos\crypto\crypto\bin\Debug\crypto.exe
+C:\Users\PC\Desktop\csharp tutos\crypto\crypto\bin\Debug\crypto.pdb
+C:\Users\PC\Desktop\csharp tutos\crypto\crypto\obj\Debug\crypto.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\csharp tutos\crypto\crypto\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\csharp tutos\crypto\crypto\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\csharp tutos\crypto\crypto\obj\Debug\crypto_MarkupCompile.cache
+C:\Users\PC\Desktop\csharp tutos\crypto\crypto\obj\Debug\crypto_MarkupCompile.lref
+C:\Users\PC\Desktop\csharp tutos\crypto\crypto\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\csharp tutos\crypto\crypto\obj\Debug\crypto.g.resources
+C:\Users\PC\Desktop\csharp tutos\crypto\crypto\obj\Debug\crypto.Properties.Resources.resources
+C:\Users\PC\Desktop\csharp tutos\crypto\crypto\obj\Debug\crypto.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\csharp tutos\crypto\crypto\obj\Debug\crypto.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\csharp tutos\crypto\crypto\obj\Debug\crypto.exe
+C:\Users\PC\Desktop\csharp tutos\crypto\crypto\obj\Debug\crypto.pdb
+C:\Users\Las9a\Desktop\crypto\crypto\crypto\bin\Debug\crypto.exe.config
+C:\Users\Las9a\Desktop\crypto\crypto\crypto\bin\Debug\crypto.exe
+C:\Users\Las9a\Desktop\crypto\crypto\crypto\bin\Debug\crypto.pdb
+C:\Users\Las9a\Desktop\crypto\crypto\crypto\obj\Debug\crypto.csprojResolveAssemblyReference.cache
+C:\Users\Las9a\Desktop\crypto\crypto\crypto\obj\Debug\MainWindow.g.cs
+C:\Users\Las9a\Desktop\crypto\crypto\crypto\obj\Debug\App.g.cs
+C:\Users\Las9a\Desktop\crypto\crypto\crypto\obj\Debug\crypto_MarkupCompile.cache
+C:\Users\Las9a\Desktop\crypto\crypto\crypto\obj\Debug\crypto_MarkupCompile.lref
+C:\Users\Las9a\Desktop\crypto\crypto\crypto\obj\Debug\MainWindow.baml
+C:\Users\Las9a\Desktop\crypto\crypto\crypto\obj\Debug\crypto.g.resources
+C:\Users\Las9a\Desktop\crypto\crypto\crypto\obj\Debug\crypto.Properties.Resources.resources
+C:\Users\Las9a\Desktop\crypto\crypto\crypto\obj\Debug\crypto.csproj.GenerateResource.Cache
+C:\Users\Las9a\Desktop\crypto\crypto\crypto\obj\Debug\crypto.csproj.CoreCompileInputs.cache
+C:\Users\Las9a\Desktop\crypto\crypto\crypto\obj\Debug\crypto.exe
+C:\Users\Las9a\Desktop\crypto\crypto\crypto\obj\Debug\crypto.pdb

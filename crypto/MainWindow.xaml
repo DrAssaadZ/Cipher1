@@ -1,0 +1,27 @@
+﻿<Window x:Class="crypto.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:crypto"
+        mc:Ignorable="d"
+        Title="Cryptographie" Height="450" Width="800" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" WindowStyle="None">
+    <Grid Background="#FF36393E">
+        <Label  Content="Cryptography"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="800" Background="#FF202225" Height="25" MouseDown="Label_MouseDown" Foreground="White" FontFamily="Sitka Small"/>
+        <Button Click="Button_Click" Content="X" Height="25" Width="23" FontFamily="Papyrus" FontWeight="SemiBold" Background="{x:Null}" Margin="775,0,0,425" Foreground="White" BorderBrush="{x:Null}"></Button>
+        <Button Click="Button_Click_1" Width="23" Height="25" Content="-" FontFamily="Stencil Std" FontWeight="ExtraBold" Foreground="White" BorderBrush="{x:Null}" Background="{x:Null}" Margin="753,0,24,425" FontSize="20" RenderTransformOrigin="1.691,-0.212" ></Button>
+        <WrapPanel HorizontalAlignment="Left" Height="425" Margin="599,25,0,0" VerticalAlignment="Top" Width="200" Background="#FF2D2E30"/>
+        <TextBlock TextAlignment="Center" HorizontalAlignment="Center" Margin="599,46,1,0" TextWrapping="Wrap" Text="Encryption methode" VerticalAlignment="Top" Width="200" Foreground="White" FontSize="15" FontFamily="Tahoma"/>
+        <RadioButton Content="Transposition" HorizontalAlignment="Left" Margin="640,87,0,0" VerticalAlignment="Top" Foreground="White" BorderBrush="{x:Null}"/>
+        <RadioButton Content="Substitution&#xD;&#xA;" HorizontalAlignment="Left" Margin="640,116,0,0" VerticalAlignment="Top" Foreground="White" BorderBrush="{x:Null}"/>
+        <Separator HorizontalAlignment="Left" Height="100" Margin="640,107,0,0" VerticalAlignment="Top" Width="119"/>
+        <TextBlock TextAlignment="Center" HorizontalAlignment="Center" Margin="19,92,247,0" TextWrapping="Wrap" Text="Message :" VerticalAlignment="Top" Width="534" Foreground="White" FontSize="15" FontFamily="Tahoma"/>
+        <TextBox HorizontalAlignment="Left" Height="100" Margin="42,116,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="511" BorderBrush="{x:Null}"/>
+        <TextBox HorizontalAlignment="Left" Height="100" Margin="42,322,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="511" BorderBrush="{x:Null}"/>
+        <TextBlock TextAlignment="Center" HorizontalAlignment="Center" Margin="19,284,247,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="534" Foreground="White" FontSize="15" FontFamily="Tahoma"><Run Text="Message after encryption"/><Run Text=" :"/></TextBlock>
+        <TextBlock TextAlignment="Center" HorizontalAlignment="Center" Margin="42,63,682,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="76" Foreground="White" FontSize="15" FontFamily="Tahoma"><Run Text="Key"/><Run Text=" :"/></TextBlock>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="123,58,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderBrush="{x:Null}"/>
+        <Button Content="Encrypt" HorizontalAlignment="Left" Margin="252,232,0,0" VerticalAlignment="Top" Width="75" Foreground="White" BorderBrush="#FF707070" Background="#FF7289DA" FontFamily="Verdana" FontWeight="SemiBold"/>
+        <Separator HorizontalAlignment="Left" Height="100" Margin="152,216,0,0" VerticalAlignment="Top" Width="281"/>
+    </Grid>
+</Window>
